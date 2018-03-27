@@ -1,0 +1,9 @@
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\bin\Debug\FriendFile.exe.config
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\bin\Debug\FriendFile.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\bin\Debug\FriendFile.pdb
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.Form1.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.Properties.Resources.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.csproj.GenerateResource.Cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.csproj.CoreCompileInputs.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.pdb

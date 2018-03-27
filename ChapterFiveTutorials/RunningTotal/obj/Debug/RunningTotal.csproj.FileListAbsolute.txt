@@ -1,0 +1,10 @@
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\bin\Debug\RunningTotal.exe.config
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\bin\Debug\RunningTotal.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\bin\Debug\RunningTotal.pdb
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.csprojResolveAssemblyReference.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.Form1.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.Properties.Resources.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.csproj.GenerateResource.Cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.csproj.CoreCompileInputs.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.pdb

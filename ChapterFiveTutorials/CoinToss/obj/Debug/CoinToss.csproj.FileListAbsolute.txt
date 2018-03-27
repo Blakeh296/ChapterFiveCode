@@ -1,0 +1,10 @@
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\bin\Debug\CoinToss.exe.config
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\bin\Debug\CoinToss.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\bin\Debug\CoinToss.pdb
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.Form1.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.Properties.Resources.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.csproj.GenerateResource.Cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.csproj.CoreCompileInputs.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.pdb
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\bin\Debug\SouthAmerica.exe.config
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\bin\Debug\SouthAmerica.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\bin\Debug\SouthAmerica.pdb
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.Form1.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.Properties.Resources.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.csproj.GenerateResource.Cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.csproj.CoreCompileInputs.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.pdb

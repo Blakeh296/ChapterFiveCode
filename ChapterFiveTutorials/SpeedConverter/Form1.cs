@@ -29,16 +29,24 @@ namespace SpeedConverter
             int kph;        //Kilometers per hour
             double mph;     //Miles per hour
 
-            // Display the table for speeds
-            for (kph = START_SPEED; kph <= END_SPEED; kph += INTERVAL)
+            try
             {
-                // Calculate miles per hour
-                mph = kph * CONVERSION_FACTOR;
+                // Display the table for speeds
+                for (kph = START_SPEED; kph <= END_SPEED; kph += INTERVAL)
+                {
+                    // Calculate miles per hour
+                    mph = kph * CONVERSION_FACTOR;
 
-                // Display the conversion
-                outputListBox.Items.Add(kph + " KPH is the same as " +
-                    mph + " MPH");
+                    // Display the conversion
+                    outputListBox.Items.Add(kph + " KPH is the same as " +
+                        mph + " MPH");
+                }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            
         }
 
         private void btnExit_Click(object sender, EventArgs e)
