@@ -1,0 +1,10 @@
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\bin\Debug\SpeedConverter.exe.config
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\bin\Debug\SpeedConverter.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\bin\Debug\SpeedConverter.pdb
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\obj\Debug\SpeedConverter.csprojResolveAssemblyReference.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\obj\Debug\SpeedConverter.Form1.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\obj\Debug\SpeedConverter.Properties.Resources.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\obj\Debug\SpeedConverter.csproj.GenerateResource.Cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\obj\Debug\SpeedConverter.csproj.CoreCompileInputs.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\obj\Debug\SpeedConverter.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\SpeedConverter\obj\Debug\SpeedConverter.pdb
