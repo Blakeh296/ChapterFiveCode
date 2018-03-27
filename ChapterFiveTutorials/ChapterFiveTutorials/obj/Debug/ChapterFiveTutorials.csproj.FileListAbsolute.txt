@@ -1,0 +1,10 @@
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.csprojResolveAssemblyReference.cache
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.Form1.resources
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.Properties.Resources.resources
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.csproj.GenerateResource.Cache
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.csproj.CoreCompileInputs.cache
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\bin\Debug\ChapterFiveTutorials.exe.config
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\bin\Debug\ChapterFiveTutorials.exe
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\bin\Debug\ChapterFiveTutorials.pdb
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.exe
+G:\C#\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.pdb
