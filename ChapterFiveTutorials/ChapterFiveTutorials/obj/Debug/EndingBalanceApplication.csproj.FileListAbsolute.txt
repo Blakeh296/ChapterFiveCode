@@ -1,0 +1,9 @@
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\ChapterFiveTutorials\bin\Debug\ChapterFiveTutorials.exe.config
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\ChapterFiveTutorials\bin\Debug\ChapterFiveTutorials.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\ChapterFiveTutorials\bin\Debug\ChapterFiveTutorials.pdb
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.detailListBox.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.Properties.Resources.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\EndingBalanceApplication.csproj.GenerateResource.Cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\EndingBalanceApplication.csproj.CoreCompileInputs.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\ChapterFiveTutorials\obj\Debug\ChapterFiveTutorials.pdb

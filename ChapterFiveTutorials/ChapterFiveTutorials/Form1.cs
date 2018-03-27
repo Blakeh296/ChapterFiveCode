@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ChapterFiveTutorials
 {
-    public partial class Form1 : Form
+    public partial class detailListBox : Form
     {
-        public Form1()
+        public detailListBox()
         {
             InitializeComponent();
         }
@@ -40,6 +40,11 @@ namespace ChapterFiveTutorials
                         {
                             // Add this months interest to the balance
                             balance = balance + (INTEREST_RATE * balance);
+
+                            // Display this month's interest to the balance
+                            listBox1.Items.Add
+                            ("The ending balance " + "for month " + count + " is " +
+                            balance.ToString("c"));
 
                             // Add one to the loop counter
                             count = count + 1;
@@ -70,6 +75,7 @@ namespace ChapterFiveTutorials
         {
             textBox1.Text = " ";
             textBox2.Text = " ";
+            listBox1.Items.Clear();
             outPutLabel.Text = " ";
         }
 

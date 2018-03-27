@@ -1,6 +1,6 @@
 ﻿namespace ChapterFiveTutorials
 {
-    partial class Form1
+    partial class detailListBox
     {
         /// <summary>
         /// Required designer variable.
@@ -37,6 +37,7 @@
             this.btnCalculate = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // label1
@@ -63,7 +64,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(39, 84);
+            this.label3.Location = new System.Drawing.Point(39, 231);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(109, 16);
             this.label3.TabIndex = 2;
@@ -73,7 +74,7 @@
             // 
             this.outPutLabel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.outPutLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.outPutLabel.Location = new System.Drawing.Point(154, 84);
+            this.outPutLabel.Location = new System.Drawing.Point(154, 231);
             this.outPutLabel.Name = "outPutLabel";
             this.outPutLabel.Size = new System.Drawing.Size(100, 20);
             this.outPutLabel.TabIndex = 3;
@@ -95,7 +96,7 @@
             // 
             // btnCalculate
             // 
-            this.btnCalculate.Location = new System.Drawing.Point(12, 152);
+            this.btnCalculate.Location = new System.Drawing.Point(12, 271);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(75, 23);
             this.btnCalculate.TabIndex = 6;
@@ -105,7 +106,7 @@
             // 
             // btnClear
             // 
-            this.btnClear.Location = new System.Drawing.Point(109, 152);
+            this.btnClear.Location = new System.Drawing.Point(109, 271);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 23);
             this.btnClear.TabIndex = 7;
@@ -115,7 +116,7 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(205, 152);
+            this.btnExit.Location = new System.Drawing.Point(205, 271);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(75, 23);
             this.btnExit.TabIndex = 8;
@@ -123,11 +124,21 @@
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // Form1
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.HorizontalScrollbar = true;
+            this.listBox1.Location = new System.Drawing.Point(12, 90);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(268, 121);
+            this.listBox1.TabIndex = 9;
+            // 
+            // detailListBox
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(292, 185);
+            this.ClientSize = new System.Drawing.Size(292, 306);
+            this.Controls.Add(this.listBox1);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnCalculate);
@@ -137,7 +148,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "detailListBox";
             this.Text = "Ending Balance";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -155,6 +166,7 @@
         private System.Windows.Forms.Button btnCalculate;
         private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
 
