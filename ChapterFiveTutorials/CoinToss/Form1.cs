@@ -38,8 +38,8 @@ namespace CoinToss
             if (sideUp == 0)
             {
                 // Display tails up
-                tailsPictureBox.Visible = true;
-                headsPictureBox.Visible = false;
+                headsPictureBox.Visible = true;
+                tailsPictureBox.Visible = false;
 
                 // Increment the counter
                 counter = counter + 1;
@@ -50,8 +50,8 @@ namespace CoinToss
             else
             {
                 // Display heads up
-                tailsPictureBox.Visible = false;
-                headsPictureBox.Visible = true;
+                headsPictureBox.Visible = false;
+                tailsPictureBox.Visible = true;
 
                 // Increment the counter
                 counter = counter + 1;
@@ -64,6 +64,12 @@ namespace CoinToss
         private void btnExit_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            counter = 0;
+            displayText.Text = " ";
         }
     }
 }
