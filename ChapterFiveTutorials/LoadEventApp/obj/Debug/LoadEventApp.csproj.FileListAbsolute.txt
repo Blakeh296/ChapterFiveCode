@@ -1,0 +1,9 @@
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\bin\Debug\LoadEventApp.exe.config
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\bin\Debug\LoadEventApp.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\bin\Debug\LoadEventApp.pdb
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.Form1.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.Properties.Resources.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.csproj.GenerateResource.Cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.csproj.CoreCompileInputs.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.pdb

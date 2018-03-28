@@ -1,0 +1,10 @@
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.csprojResolveAssemblyReference.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.Form1.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.Properties.Resources.resources
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.csproj.GenerateResource.Cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.csproj.CoreCompileInputs.cache
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\bin\Debug\FiveTwoEndingBalance.exe.config
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\bin\Debug\FiveTwoEndingBalance.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\bin\Debug\FiveTwoEndingBalance.pdb
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.exe
+G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.pdb
