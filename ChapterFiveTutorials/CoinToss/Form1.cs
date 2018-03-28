@@ -22,7 +22,8 @@ namespace CoinToss
 
         private void btnToss_Click(object sender, EventArgs e)
         {
-            
+            // A string variable will allow me to add items to the list box
+            string output;
 
             // Variable will indicate which side is up
             int sideUp;
@@ -38,26 +39,38 @@ namespace CoinToss
             if (sideUp == 0)
             {
                 // Display tails up
-                headsPictureBox.Visible = true;
-                tailsPictureBox.Visible = false;
-
-                // Increment the counter
-                counter = counter + 1;
-
-                // Display output message
-                displayText.Text = "Coin toss number : " + counter.ToString() + "  was Tails.";
-            }
-            else
-            {
-                // Display heads up
                 headsPictureBox.Visible = false;
                 tailsPictureBox.Visible = true;
 
                 // Increment the counter
                 counter = counter + 1;
 
-                // Display output message
-                displayText.Text = "Coin toss : " + counter.ToString() + " was Heads.";
+                // Save string to add to lis box
+                 output = "Coin toss number : " + counter.ToString() + "  was Tails.";
+
+                // Populate list box with output variable
+                outPutListBox.Items.Add(output);
+
+                // Display current toss
+                displayText.Text = output;
+            }
+            else
+            {
+                // Display heads up
+                headsPictureBox.Visible = true;
+                tailsPictureBox.Visible = false;
+
+                // Increment the counter
+                counter = counter + 1;
+
+                // Save string to add to lis box
+                output = "Coin toss number : " + counter.ToString() + "  was Heads.";
+
+                // Populate list box with output variable
+                outPutListBox.Items.Add(output);
+
+                // Display current toss
+                displayText.Text = output;
             }
         }
 
@@ -70,6 +83,7 @@ namespace CoinToss
         {
             counter = 0;
             displayText.Text = " ";
+            outPutListBox.Items.Clear();
         }
     }
 }

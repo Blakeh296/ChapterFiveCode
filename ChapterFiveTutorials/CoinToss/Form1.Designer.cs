@@ -34,6 +34,7 @@
             this.headsPictureBox = new System.Windows.Forms.PictureBox();
             this.displayText = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.outPutListBox = new System.Windows.Forms.ListBox();
             ((System.ComponentModel.ISupportInitialize)(this.tailsPictureBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.headsPictureBox)).BeginInit();
             this.SuspendLayout();
@@ -51,7 +52,7 @@
             // 
             // btnToss
             // 
-            this.btnToss.Location = new System.Drawing.Point(94, 214);
+            this.btnToss.Location = new System.Drawing.Point(191, 214);
             this.btnToss.Name = "btnToss";
             this.btnToss.Size = new System.Drawing.Size(75, 23);
             this.btnToss.TabIndex = 2;
@@ -61,7 +62,7 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(187, 214);
+            this.btnExit.Location = new System.Drawing.Point(284, 214);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(75, 23);
             this.btnExit.TabIndex = 3;
@@ -91,7 +92,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(3, 214);
+            this.button1.Location = new System.Drawing.Point(100, 214);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 6;
@@ -99,11 +100,20 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // outPutListBox
+            // 
+            this.outPutListBox.FormattingEnabled = true;
+            this.outPutListBox.Location = new System.Drawing.Point(258, 6);
+            this.outPutListBox.Name = "outPutListBox";
+            this.outPutListBox.Size = new System.Drawing.Size(222, 160);
+            this.outPutListBox.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(265, 249);
+            this.ClientSize = new System.Drawing.Size(492, 249);
+            this.Controls.Add(this.outPutListBox);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.displayText);
             this.Controls.Add(this.headsPictureBox);
@@ -126,6 +136,7 @@
         private System.Windows.Forms.PictureBox headsPictureBox;
         private System.Windows.Forms.Label displayText;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ListBox outPutListBox;
     }
 }
 
