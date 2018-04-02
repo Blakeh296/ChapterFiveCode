@@ -7,3 +7,13 @@ G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.c
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.csproj.CoreCompileInputs.cache
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.exe
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\bin\Debug\SouthAmerica.exe.config
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\bin\Debug\SouthAmerica.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\bin\Debug\SouthAmerica.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.Form1.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\SouthAmerica\obj\Debug\SouthAmerica.pdb

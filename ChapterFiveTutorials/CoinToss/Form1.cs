@@ -34,44 +34,51 @@ namespace CoinToss
             // Get a random integer in the range of 0 through 1
             // 0 means tails up, 1 means heads up
             sideUp = rand.Next(2);
-
-            // Display the side that is up
-            if (sideUp == 0)
+            try
             {
-                // Display tails up
-                headsPictureBox.Visible = false;
-                tailsPictureBox.Visible = true;
+                // Display the side that is up
+                if (sideUp == 0)
+                {
+                    // Display tails up
+                    headsPictureBox.Visible = false;
+                    tailsPictureBox.Visible = true;
 
-                // Increment the counter
-                counter = counter + 1;
+                    // Increment the counter
+                    counter = counter + 1;
 
-                // Save string to add to lis box
-                 output = "Coin toss number : " + counter.ToString() + "  was Tails.";
+                    // Save string to add to lis box
+                    output = "Coin toss number : " + counter.ToString() + "  was Tails.";
 
-                // Populate list box with output variable
-                outPutListBox.Items.Add(output);
+                    // Populate list box with output variable
+                    outPutListBox.Items.Add(output);
 
-                // Display current toss
-                displayText.Text = output;
+                    // Display current toss
+                    displayText.Text = output;
+                }
+                else
+                {
+                    // Display heads up
+                    headsPictureBox.Visible = true;
+                    tailsPictureBox.Visible = false;
+
+                    // Increment the counter
+                    counter = counter + 1;
+
+                    // Save string to add to lis box
+                    output = "Coin toss number : " + counter.ToString() + "  was Heads.";
+
+                    // Populate list box with output variable
+                    outPutListBox.Items.Add(output);
+
+                    // Display current toss
+                    displayText.Text = output;
+                }
             }
-            else
+            catch (Exception ex)
             {
-                // Display heads up
-                headsPictureBox.Visible = true;
-                tailsPictureBox.Visible = false;
-
-                // Increment the counter
-                counter = counter + 1;
-
-                // Save string to add to lis box
-                output = "Coin toss number : " + counter.ToString() + "  was Heads.";
-
-                // Populate list box with output variable
-                outPutListBox.Items.Add(output);
-
-                // Display current toss
-                displayText.Text = output;
+                MessageBox.Show(ex.Message);
             }
+           
         }
 
         private void btnExit_Click(object sender, EventArgs e)

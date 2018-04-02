@@ -7,3 +7,12 @@ G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.c
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.csproj.CoreCompileInputs.cache
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.exe
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\bin\Debug\LoadEventApp.exe.config
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\bin\Debug\LoadEventApp.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\bin\Debug\LoadEventApp.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.Form1.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\LoadEventApp\obj\Debug\LoadEventApp.pdb

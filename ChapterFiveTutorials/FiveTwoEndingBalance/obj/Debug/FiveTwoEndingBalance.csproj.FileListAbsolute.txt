@@ -8,3 +8,13 @@ G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\bin\Debug\FiveTw
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\bin\Debug\FiveTwoEndingBalance.pdb
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.exe
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\bin\Debug\FiveTwoEndingBalance.exe.config
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\bin\Debug\FiveTwoEndingBalance.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\bin\Debug\FiveTwoEndingBalance.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.Form1.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FiveTwoEndingBalance\obj\Debug\FiveTwoEndingBalance.pdb

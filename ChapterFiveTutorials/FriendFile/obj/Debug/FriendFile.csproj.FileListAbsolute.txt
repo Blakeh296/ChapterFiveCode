@@ -7,3 +7,13 @@ G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.cspro
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.csproj.CoreCompileInputs.cache
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.exe
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\bin\Debug\FriendFile.exe.config
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\bin\Debug\FriendFile.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\bin\Debug\FriendFile.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.Form1.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\FriendFile\obj\Debug\FriendFile.pdb

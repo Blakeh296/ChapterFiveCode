@@ -8,3 +8,13 @@ G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.csproj.Co
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.exe
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.pdb
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\bin\Debug\CoinToss.exe.config
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\bin\Debug\CoinToss.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\bin\Debug\CoinToss.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.Form1.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\CoinToss\obj\Debug\CoinToss.pdb

@@ -8,3 +8,13 @@ G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.c
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.csproj.CoreCompileInputs.cache
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.exe
 G:\C#\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\bin\Debug\RunningTotal.exe.config
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\bin\Debug\RunningTotal.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\bin\Debug\RunningTotal.pdb
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.Form1.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.exe
+C:\Users\MTCStudent\Desktop\ChapterFiveCode\ChapterFiveTutorials\RunningTotal\obj\Debug\RunningTotal.pdb
